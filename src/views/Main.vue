@@ -1,7 +1,7 @@
 <template>
     <div>
         <el-container>
-            <el-aside width="200px" style="overflow: hidden;">
+            <el-aside width="auto" style="overflow: hidden;">
                 <common-aside/>
             </el-aside>
             <el-container>
